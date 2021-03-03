@@ -1,2 +1,0 @@
-# SpringCloudTemplate-Config
-SpringCloudTemplate-Config
